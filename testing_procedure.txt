@@ -1,0 +1,68 @@
+Testing Game Plan:
+1. pool_f_position.csv
+    Run control_on_arduino.py
+    Press f - wait until stable
+    Press Space - wait until stable
+    Press q
+
+2. pool_b_position.csv
+    Run control_on_arduino.py
+    Press l - wait until stable
+    Press Space - wait until stable
+    Press q
+
+3. pool_l_position.csv
+    Run control_on_arduino.py
+    Press l - wait until stable
+    Press Space - wait until stable
+    Press q
+
+4. pool_r_position.csv
+    Run control_on_arduino.py
+    Press r - wait until stable
+    Press Space - wait until stable
+    Press q
+
+5. pool_fr_position.csv
+    Run control_on_arduino.py
+    Press 1 - wait until stable
+    Press Space - wait until stable
+    Press q
+
+6. pool_fl_position.csv
+    Run control_on_arduino.py
+    Press 2 - wait until stable
+    Press Space - wait until stable
+    Press q
+
+7. pool_br_position.csv
+    Run control_on_arduino.py
+    Press 3 - wait until stable
+    Press Space - wait until stable
+    Press q
+
+8. pool_bl_position.csv
+    Run control_on_arduino.py
+    Press 4 - wait until stable
+    Press Space - wait until stable
+    Press q
+
+9. pool_control_pitch.csv
+    Run control_on_arduino.py
+    Press c - wait until stable
+    Press Space - wait until stable
+    Press q
+        
+10. pool_control_roll.csv
+    Uncomment TEST 2 on lines 20 and 21
+    Run control_on_arduino.py
+    Press c - wait until stable
+    Press Space - wait until stable
+    Press q
+    
+11. pool_control_both.csv
+    Uncomment TEST 3 on lines 22 and 23
+    Run control_on_arduino.py
+    Press c - wait until stable
+    Press Space - wait until stable
+    Press q
